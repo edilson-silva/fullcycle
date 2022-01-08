@@ -1,13 +1,13 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desafio 02 - Nginx como proxy reverso para aplicação node",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Edilson Silva",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
