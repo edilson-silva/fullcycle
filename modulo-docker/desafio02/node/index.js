@@ -1,3 +1,6 @@
+const startup = require('./startup');
+startup.prepareDB();
+
 const express = require('express');
 const app = express();
 const port = 3000;
